@@ -1,0 +1,1 @@
+Getting a shift of 880 between ILA data and the .coe file (for the operation: take image as input and give the same image as output without any changes), with ILA being behind by 880 units/indices. Also, there are 4 repetitions of each element, which is to be noted.
